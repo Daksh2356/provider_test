@@ -1,6 +1,6 @@
 # provider_test
 
-A new Flutter project.
+This is a flutter app built for better understanding of the provider package, which helps you to call a backend logic from any level within the app across any platform.
 
 ## Getting Started
 
